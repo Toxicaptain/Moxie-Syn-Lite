@@ -48,62 +48,62 @@ macro_rules! emoji {
 }
 
 mod prod_emoji {
-    pub const D61: &str = "<:d61:1270888983051636777>";
-    pub const D62: &str = "<:d62:1270889005373984899>";
-    pub const D63: &str = "<:d63:1270889037514670142>";
-    pub const D64: &str = "<:d64:1270889188190978199>";
-    pub const D64_GRIM: &str = "<:d64_grim:1331067368444661881>";
-    pub const D65: &str = "<:d65:1270889051871776809>";
-    pub const D65_PERFECT: &str = "<:d65_perfect:1270928629286567976>";
-    pub const D66: &str = "<:d66:1270889063628537910>";
+    pub const D61: &str = "<:d61:1337163710585901078>";
+    pub const D62: &str = "<:d62:1337163724452266095>";
+    pub const D63: &str = "<:d63:1337163736905154612>";
+    pub const D64: &str = "<:d64:1337183595516792912>";
+    pub const D64_GRIM: &str = "<:d64_grim:1337184030172512297>";
+    pub const D65: &str = "<:d65:1337183618518355968>";
+    pub const D65_PERFECT: &str = "<:d65_perfect:1337184074489532572>";
+    pub const D66: &str = "<:d66:1337183644145549424>";
 
-    pub const D65_PERFECT_MASTERY: &str = "<:d65_perfect_mastery:1331067597738741821>";
-    pub const D64_GRIM_MASTERY: &str = "<:d64_grim_mastery:1331067565694386247>";
-    pub const D61_MASTERY: &str = "<:d61_mastery:1331067540151079024>";
-    pub const D62_MASTERY: &str = "<:d62_mastery:1331067517929783336>";
-    pub const D63_MASTERY: &str = "<:d63_mastery:1331067487340593192>";
-    pub const D64_MASTERY: &str = "<:d64_mastery:1331067466805416058>";
-    pub const D65_MASTERY: &str = "<:d65_mastery:1331067427471233106>";
-    pub const D66_MASTERY: &str = "<:d66_mastery:1331067398442192946>";
+    pub const D65_PERFECT_MASTERY: &str = "<:d65_perfect_mastery:1337184121629315113>";
+    pub const D64_GRIM_MASTERY: &str = "<:d64_grim_mastery:1337184098808238090>";
+    pub const D61_MASTERY: &str = "<:d61_mastery:1337183669361704982>";
+    pub const D62_MASTERY: &str = "<:d62_mastery:1337183682473230387>";
+    pub const D63_MASTERY: &str = "<:d63_mastery:1337183694992965734>";
+    pub const D64_MASTERY: &str = "<:d64_mastery:1337183745870008422>";
+    pub const D65_MASTERY: &str = "<:d65_mastery:1337183776635224115>";
+    pub const D66_MASTERY: &str = "<:d66_mastery:1337183824416735293>";
 
-    pub const D88: &str = "<:d88:1270888678700355584>";
-    pub const D87: &str = "<:d87:1270888640054038599>";
-    pub const D86: &str = "<:d86:1270815442394677389>";
-    pub const D85: &str = "<:d85:1270815474309140612>";
-    pub const D84: &str = "<:d84:1270815484412956724>";
-    pub const D83: &str = "<:d83:1270815503912271983>";
-    pub const D82: &str = "<:d82:1270815516671344660>";
-    pub const D81: &str = "<:d81:1270888657426845766>";
+    pub const D88: &str = "<:d88:1337184231834517504>";
+    pub const D87: &str = "<:d87:1337184219067060255>";
+    pub const D86: &str = "<:d86:1337184204647039017>";
+    pub const D85: &str = "<:d85:1337184195403055206>";
+    pub const D84: &str = "<:d84:1337184185454166096>";
+    pub const D83: &str = "<:d83:1337184175626915921>";
+    pub const D82: &str = "<:d82:1337184166231412736>";
+    pub const D81: &str = "<:d81:1337184154491813981>";
 }
 
 mod staging_emoji {
 
-    pub const D61: &str = "<:d61:1330587892707233945>";
-    pub const D62: &str = "<:d62:1330588022965534760>";
-    pub const D63: &str = "<:d63:1330588035968143381>";
-    pub const D64: &str = "<:d64:1330588042800664719>";
-    pub const D64_GRIM: &str = "<:d64_grim:1331070199629353080>";
-    pub const D65: &str = "<:d65:1330588051973345280>";
-    pub const D65_PERFECT: &str = "<:d65:1330588051973345280>";
-    pub const D66: &str = "<:d66:1330588061762846822>";
+    pub const D61: &str = "<:d61:1337163710585901078>";
+    pub const D62: &str = "<:d62:1337163724452266095>";
+    pub const D63: &str = "<:d63:1337163736905154612>";
+    pub const D64: &str = "<:d64:1337183595516792912>";
+    pub const D64_GRIM: &str = "<:d64_grim:1337184030172512297>";
+    pub const D65: &str = "<:d65:1337183618518355968>";
+    pub const D65_PERFECT: &str = "<:d65_perfect:1337184074489532572>";
+    pub const D66: &str = "<:d66:1337183644145549424>";
 
-    pub const D65_PERFECT_MASTERY: &str = "<:d65_perfect_mastery:1331121313645072517>";
-    pub const D64_GRIM_MASTERY: &str = "<:d64_grim_mastery:1331121334972977202>";
-    pub const D61_MASTERY: &str = "<:d61_mastery:1331121254970687579>";
-    pub const D62_MASTERY: &str = "<:d62_mastery:1331121237711126528>";
-    pub const D63_MASTERY: &str = "<:d63_mastery:1331121219898052688>";
-    pub const D64_MASTERY: &str = "<:d64_mastery:1331121199073198170>";
-    pub const D65_MASTERY: &str = "<:d65_mastery:1331120913764319325>";
-    pub const D66_MASTERY: &str = "<:d66_mastery:1331120843916316673>";
+    pub const D65_PERFECT_MASTERY: &str = "<:d65_perfect_mastery:1337184121629315113>";
+    pub const D64_GRIM_MASTERY: &str = "<:d64_grim_mastery:1337184098808238090>";
+    pub const D61_MASTERY: &str = "<:d61_mastery:1337183669361704982>";
+    pub const D62_MASTERY: &str = "<:d62_mastery:1337183682473230387>";
+    pub const D63_MASTERY: &str = "<:d63_mastery:1337183694992965734>";
+    pub const D64_MASTERY: &str = "<:d64_mastery:1337183745870008422>";
+    pub const D65_MASTERY: &str = "<:d65_mastery:1337183776635224115>";
+    pub const D66_MASTERY: &str = "<:d66_mastery:1337183824416735293>";
 
-    pub const D88: &str = "<:d88:1330588239282704457>";
-    pub const D87: &str = "<:d87:1330588226238550119>";
-    pub const D86: &str = "<:d86:1330588215148675102>";
-    pub const D85: &str = "<:d85:1330588201726906501>";
-    pub const D84: &str = "<:d84:1330588187353153627>";
-    pub const D83: &str = "<:d83:1330588115697537095>";
-    pub const D82: &str = "<:d82:1330588084244578334>";
-    pub const D81: &str = "<:d81:1330588072793866322>";
+    pub const D88: &str = "<:d88:1337184231834517504>";
+    pub const D87: &str = "<:d87:1337184219067060255>";
+    pub const D86: &str = "<:d86:1337184204647039017>";
+    pub const D85: &str = "<:d85:1337184195403055206>";
+    pub const D84: &str = "<:d84:1337184185454166096>";
+    pub const D83: &str = "<:d83:1337184175626915921>";
+    pub const D82: &str = "<:d82:1337184166231412736>";
+    pub const D81: &str = "<:d81:1337184154491813981>";
 }
 
 fn get_die_emoji(roll: Roll, mastery: bool) -> &'static str {
